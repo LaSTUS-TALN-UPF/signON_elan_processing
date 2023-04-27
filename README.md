@@ -1,1 +1,1 @@
-# signON_elan_processing
+# SingON Elan Processing Framework
